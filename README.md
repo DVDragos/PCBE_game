@@ -9,6 +9,4 @@ Ex: am adus modificari in clasa Map, Team si Coordinates si am adaugat clasa Lau
 Bafta la codat!
 
 Methids needed:
--get 3x3 Map in jrul unui element\
--am nevoie de: coordonatele unui player (sa primesc un obiect Coordinates care imi spune pozitia actuala a jucatorului pe harta)
--In clasa Element ar fi ok o metoda updateCoordinate care sa o apelam cand un player se misca
+
